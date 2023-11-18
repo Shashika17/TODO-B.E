@@ -1,0 +1,6 @@
+@TODO_B.E_HostAddress = http://localhost:3000
+
+GET {{TODO_B.E_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
